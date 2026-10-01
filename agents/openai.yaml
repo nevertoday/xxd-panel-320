@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 320"
+  short_description: "人格剪影：上半保留原照，下半把主体收成剪影优先、轮廓可以断开的角色标记"
+  default_prompt: "Use $xxd-panel-320 to transform my photograph following the complete canonical source brief."
