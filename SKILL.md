@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-320
-description: "Create XXD Panel 320 raster artwork: a faithful photograph paired with one expressive character mark, silhouette first, with a broken gestural contour. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-320 or asks for this 人格剪影 style."
+description: "XXD Panel 320｜Character Silhouette: keeps the photo and turns its subject into one small character mark with personality, silhouette first — a distinctive outline, pose and proportion, gently rounded or exaggerated, drawn with expressive ink lines that vary in weight, break, overshoot and stay partly open, accurate in the big shapes and loose in the small ones. Ink with watercolour, gouache, crayon or dry brush on grainy paper; a warm limited palette of warm yellow, ochre, soft orange, off-white, dark brown and deep red with a little cool balance; a few circles, star dots or plant marks only to support identity, wide whitespace and a short word or number like an artist's character-sheet note. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-320 or asks for a hand-drawn character mark, broken-contour emblem or silhouette-first mascot sketch from a photo."
 ---
 
 # XXD Panel 320

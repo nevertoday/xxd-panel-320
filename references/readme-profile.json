@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 320｜Character Silhouette: keeps the photo and turns its subject into one small character mark with personality, silhouette first — a distinctive outline, pose and proportion, gently rounded or exaggerated, drawn with expressive ink lines that vary in weight, break, overshoot and stay partly open, accurate in the big shapes and loose in the small ones. Ink with watercolour, gouache, crayon or dry brush on grainy paper; a warm limited palette of warm yellow, ochre, soft orange, off-white, dark brown and deep red with a little cool balance; a few circles, star dots or plant marks only to support identity, wide whitespace and a short word or number like an artist's character-sheet note. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-320 or asks for a hand-drawn character mark, broken-contour emblem or silhouette-first mascot sketch from a photo.",
+  "short_description": "人格剪影：把照片主体收成剪影优先、墨线断开越界、带一点松弛贵气的角色小标记",
+  "zh-CN": {
+    "name": "人格剪影",
+    "tagline": "保留原照片，把主体收成一个剪影优先、轮廓可以断开的角色小标记。",
+    "look": "照片保持原样，设计部分先抓住主体的剪影：独特的轮廓、动作和比例，可以变圆或轻微夸张，带一点可爱的松弛和安静的自信。墨线有粗细变化，会断开、轻微越界、不完全闭合，大结构准，小细节放松。墨线之外用水彩、水粉、蜡笔或干刷上色，纸张颗粒和不匀的颜色都在。颜色偏暖，暖黄、赭石、柔橙、米白、深棕、暗红，加少量冷色平衡。旁边可以有几颗星点、一个圆或一点植物纹，只为强化身份；四周大量留白，配一个短词或编号，像角色手稿上的小注。",
+    "traits": ["角色标记", "断裂轮廓", "剪影优先", "受控松散", "收藏图标"],
+    "good": [
+      "有性格的人或动物：昂着头的猫、戴墨镜的人、蹲坐的柯基、一只大鹅",
+      "姿态很有辨识度的瞬间：叉腰站着、回头一看、跳起来接球",
+      "想做成个人角色标志、头像、乐队或小店吉祥标记的照片"
+    ],
+    "poor": [
+      "没有明显角色感的照片：风景、建筑群、空房间",
+      "主体姿态模糊、剪影认不出的照片：背光一团、被遮挡的人",
+      "想要光滑矢量、精修线稿、可爱 IP 或 3D 吉祥物的需求"
+    ]
+  },
+  "en": {
+    "name": "Character Silhouette",
+    "tagline": "Keeps your photo and turns the subject into one silhouette-first character mark whose contour is allowed to break.",
+    "look": "The photo stays as it is. The design starts from the subject's silhouette: its particular outline, gesture and proportions, rounded or slightly exaggerated, with a relaxed charm and quiet confidence. Ink lines vary in weight, break off, overshoot and stay partly open, accurate in the large structure and free in the small details. Colour is added in watercolour, gouache, crayon or dry brush, with paper grain and uneven fills left visible. The palette leans warm, with warm yellow, ochre, soft orange, off-white, dark brown and deep red plus a touch of cool balance. A few star dots, a circle or a plant motif may appear only to reinforce identity; wide whitespace surrounds it, with a short word or number like a note on a character sketch.",
+    "traits": ["Character mark", "Broken contour", "Silhouette first", "Controlled looseness", "Collectible icon"],
+    "good": [
+      "People or animals with attitude: a cat with its head held high, someone in sunglasses, a sitting corgi, a big goose",
+      "Moments with a very recognisable pose: hands on hips, a glance over the shoulder, jumping for a ball",
+      "Photos you want as a personal character mark, an avatar, or a mascot mark for a band or small shop"
+    ],
+    "poor": [
+      "Photos with no character in them: landscapes, groups of buildings, empty rooms",
+      "Photos where the pose or silhouette is unclear: a backlit blur, a half-hidden person",
+      "Wanting glossy vector, polished linework, a cute IP character or a 3D mascot"
+    ]
+  },
+  "ja": {
+    "name": "人格のシルエット",
+    "tagline": "写真はそのままに、主役をシルエット優先で輪郭が途切れてもよいキャラクターの小さなマークにします。",
+    "look": "写真はそのまま残し、デザイン側はまず主役のシルエットをつかみます。独特の輪郭、しぐさ、比率を、丸めたり少し誇張したりして、愛嬌のある肩の力の抜け方と静かな自信を出します。墨の線は太さが変わり、途切れ、少しはみ出し、閉じきらず、大きな構造は正確に、小さな細部は自由にします。線のほかは水彩、ガッシュ、クレヨン、ドライブラシで色をのせ、紙の粒子と塗りむらが見えます。色は暖色寄りで、暖かい黄、黄土、柔らかなオレンジ、生成り、こげ茶、深い赤に、少しの寒色でバランスをとります。星の点、円、植物の模様を少し添えるのは個性を強めるためだけで、周りは広い余白、キャラクター設定画のメモのような短い語や番号を添えます。",
+    "traits": ["キャラクターのマーク", "途切れる輪郭", "シルエット優先", "制御されたゆるさ", "コレクションのアイコン"],
+    "good": [
+      "個性のある人や動物：頭を上げた猫、サングラスの人、お座りするコーギー、大きなガチョウ",
+      "姿勢がとても印象的な瞬間：腰に手を当てて立つ、振り返る、ボールに飛びつく",
+      "個人のキャラクターマーク、アイコン、バンドや小さなお店のマスコットマークにしたい写真"
+    ],
+    "poor": [
+      "キャラクター性のない写真：風景、建物群、空っぽの部屋",
+      "姿勢やシルエットがわかりにくい写真：逆光で黒くつぶれたもの、半分隠れた人",
+      "なめらかなベクター、清書された線、かわいいキャラクター IP、3D マスコットを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "개성 실루엣",
+    "tagline": "원래 사진은 그대로 두고, 주인공을 실루엣이 먼저이고 윤곽이 끊겨도 되는 캐릭터 마크로 만듭니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 먼저 주인공의 실루엣을 잡습니다. 독특한 윤곽, 동작, 비율을 둥글리거나 살짝 과장해 귀여운 여유와 조용한 자신감을 담습니다. 먹선은 굵기가 달라지고 끊기며 살짝 넘치고 다 닫히지 않으며, 큰 구조는 정확하게, 작은 세부는 자유롭게 둡니다. 선 밖은 수채, 과슈, 크레용, 마른 붓으로 칠해 종이 입자와 고르지 않은 색이 보입니다. 색은 따뜻한 쪽으로 따뜻한 노랑, 황토, 부드러운 주황, 미색, 짙은 갈색, 검붉은색에 한색을 조금 섞어 균형을 잡습니다. 별 점, 원 하나, 식물 무늬는 정체성을 살리는 정도로만 두고, 둘레는 넓게 비우며 캐릭터 스케치 메모 같은 짧은 단어나 번호를 붙입니다.",
+    "traits": ["캐릭터 마크", "끊긴 윤곽", "실루엣 우선", "통제된 느슨함", "소장용 아이콘"],
+    "good": [
+      "성격이 드러나는 사람이나 동물: 고개를 든 고양이, 선글라스 낀 사람, 앉아 있는 코기, 커다란 거위",
+      "자세가 아주 인상적인 순간: 허리에 손 얹고 서 있기, 뒤돌아보기, 공을 향해 뛰어오르기",
+      "개인 캐릭터 마크, 프로필 사진, 밴드나 작은 가게의 마스코트 마크로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "캐릭터감이 없는 사진: 풍경, 건물들, 빈 방",
+      "자세나 실루엣이 불분명한 사진: 역광으로 뭉개진 모습, 반쯤 가려진 사람",
+      "매끈한 벡터, 정리된 선화, 귀여운 캐릭터 IP, 3D 마스코트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "صورة ظلية بشخصية",
+    "tagline": "يحتفظ بصورتك ويحوّل عنصرها إلى علامة شخصية صغيرة تبدأ من الصورة الظلية ويجوز أن ينقطع خطها.",
+    "look": "تبقى الصورة كما هي، ويبدأ التصميم من الصورة الظلية للعنصر: خطه الخارجي المميز وإيماءته ونِسبه، مستديرة أو مبالغاً فيها قليلاً، بخفة محبّبة وثقة هادئة. خطوط الحبر متفاوتة السماكة، تنقطع وتتجاوز حدودها قليلاً ولا تنغلق تماماً، دقيقة في البنية الكبيرة وحرة في التفاصيل الصغيرة. يُضاف اللون بالألوان المائية أو الغواش أو أقلام الشمع أو الفرشاة الجافة، مع بقاء حبيبات الورق وعدم انتظام التلوين. الألوان تميل إلى الدفء: أصفر دافئ ومغرة وبرتقالي ناعم وأبيض مائل للصفرة وبني داكن وأحمر قاتم، مع قليل من الألوان الباردة للتوازن. قد تظهر نقاط نجمية أو دائرة أو زخرفة نباتية لتأكيد الهوية فقط؛ ويحيط بها فراغ واسع، مع كلمة قصيرة أو رقم كملاحظة على رسم تمهيدي لشخصية.",
+    "traits": ["علامة شخصية", "خط منقطع", "الصورة الظلية أولاً", "ارتخاء منضبط", "أيقونة للاقتناء"],
+    "good": [
+      "أشخاص أو حيوانات لها حضور: قطة ترفع رأسها، شخص بنظارة شمسية، كلب كورغي جالس، إوزة كبيرة",
+      "لحظات بوضعية مميزة جداً: الوقوف واليدان على الخصر، التفاتة إلى الوراء، القفز لالتقاط كرة",
+      "صور تريدها علامةً شخصية أو صورة شخصية أو تميمة لفرقة موسيقية أو متجر صغير"
+    ],
+    "poor": [
+      "صور بلا شخصية واضحة: مناظر طبيعية، مجموعات مبانٍ، غرف فارغة",
+      "صور تكون فيها الوضعية أو الصورة الظلية غير واضحة: كتلة معتمة بإضاءة خلفية، شخص نصف محجوب",
+      "الرغبة في رسم متجهي لامع أو خطوط منقّحة أو شخصية تجارية لطيفة أو تميمة مجسّمة"
+    ]
+  }
+}
